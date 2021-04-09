@@ -1,0 +1,41 @@
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin: auto;
+    padding: auto;  
+
+    
+    
+}
+/* .content--btn {
+    padding: 10px 20px;
+    border: 1px solid royalblue;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 50px;
+    text-align: center;
+    color: white;
+    background-color: royalblue;
+    margin: auto;
+    transform: scale(1) translateX(-50%);
+    transition: 0.5s;
+    
+    
+}
+.content--btn:hover {
+    border: 1px solid black;
+    color: royalblue   ;
+    background-color: white;
+    transition-duration: 0.5s;
+} */
+.item {
+    width: 20%;
+    height: 50px;
+    background-color: blue;
+}
+.item:first-child {
+
+
+}
